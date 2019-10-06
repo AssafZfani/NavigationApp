@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+
+    <string name="dialog_location_permission_title">In order to use the app, you need to grant access to location permission</string>
+    <string name="dialog_location_permission_message">Go to Settings -> Apps and Notifications -> NavigationApp -> App Permissions and grant access to Location.</string>
+    <string name="dialog_location_permission_confirm">Confirm</string>
+
+    <string name="toggle_zoom">Toggle Zoom</string>
+    <string name="my_location">My Location</string>
+</resources>
